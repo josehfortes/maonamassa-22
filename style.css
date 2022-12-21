@@ -12,3 +12,13 @@ html {
   color: white;
   min-height: 100vh;
 }
+
+button {
+  padding: 15px 30px;
+  font-size: 16px;
+  font-weight: bold;
+  background-color: blueviolet;
+  color: white;
+  border: 0;
+  cursor: pointer;
+}
